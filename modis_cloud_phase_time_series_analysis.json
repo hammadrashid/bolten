@@ -1,58 +1,112 @@
 {
     "data":[
         { 
-            "brandname"     : "CHANEL",
-            "fragrancname"  : "ALLURE",
+            "brandname"     : "ATELIER COLOGNE",
+            "fragrancname"  : "SILVER IRIS",
             "gender"        : "Female",
             "family1"       : "Floral",
+            "family2"       : "",
+            "family3"       : "",
+            "note"          : "Iris"
+        },
+        { 
+            "brandname"     : "ATELIER COLOGNE",
+            "fragrancname"  : "GRAND NÉROLI",
+            "gender"        : "Female",
+            "family1"       : "Floral",
+            "family2"       : "",
+            "family3"       : "",
+            "note"          : "Orange Blossom"
+        },
+        {
+            "brandname"     : "ATELIER COLOGNE",
+            "fragrancname"  : "MISTRAL PATCHOULI",
+            "gender"        : "Female",
+            "family1"       : "Citrus",
+            "family2"       : "Aquatic",
+            "family3"       : "",
+            "note"          : "Orange Blossom"
+        },
+        {
+            "brandname"     : "LONDONER",
+            "fragrancname"  : "W1X",
+            "gender"        : "Female",
+            "family1"       : "Floral",
+            "family2"       : "Oriental",
+            "family3"       : "",
+            "note"          : "Jasmine"
+        },
+        {
+            "brandname"     : "ETAT LIBRE D'ORANGE",
+            "fragrancname"  : "JOSÉPHINE BAKER",
+            "gender"        : "Female",
+            "family1"       : "Wood",
+            "family2"       : "Oriental",
+            "family3"       : "",
+            "note"          : "Gourmand"
+        },
+        {
+            "brandname"     : "ETAT LIBRE D'ORANGE",
+            "fragrancname"  : "JASMIN ET CIGARETTE",
+            "gender"        : "Female",
+            "family1"       : "Leather",
+            "family2"       : "Floral",
+            "family3"       : "",
+            "note"          : "White Flower"
+        },
+        {
+            "brandname"     : "ETAT LIBRE D'ORANGE",
+            "fragrancname"  : "LIKE THIS BY TILDA SWINTON",
+            "gender"        : "Female",
+            "family1"       : "Wood",
             "family2"       : "Oriental",
             "family3"       : "Fruit",
             "note"          : "Citrus Fruity"
         },
-        { 
-            "brandname"     : "CHANEL",
-            "fragrancname"  : "ALLURE HOMME",
+        {
+            "brandname"     : "ETAT LIBRE D'ORANGE",
+            "fragrancname"  : "DELICIOUS CLOSET QUEEN",
             "gender"        : "Male",
             "family1"       : "Wood",
-            "family2"       : "Oriental",
-            "family3"       : "",
-            "note"          : ""
-        },
-        { 
-            "brandname"     : "CHANEL",
-            "fragrancname"  : "ALLURE HOMME ÉDITION BLANCHE",
-            "gender"        : "Male",
-            "family1"       : "Wood",
-            "family2"       : "Oriental",
-            "family3"       : "",
-            "note"          : ""
-        },
-        { 
-            "brandname"     : "CHANEL",
-            "fragrancname"  : "ALLURE HOMME POUR LÉTÉ",
-            "gender"        : "Male",
-            "family1"       : "Wood",
-            "family2"       : "Oriental",
-            "family3"       : "",
-            "note"          : ""
-        },
-        { 
-            "brandname"     : "CHANEL",
-            "fragrancname"  : "ALLURE HOMME SPORT",
-            "gender"        : "Male",
-            "family1"       : "Aquatic",
             "family2"       : "",
             "family3"       : "",
             "note"          : ""
         },
-        { 
-            "brandname"     : "CHANEL",
-            "fragrancname"  : "CHANEL ALLURE POUR LÉTÉ",
-            "gender"        : "Female",
+        {
+            "brandname"     : "ETAT LIBRE D'ORANGE",
+            "fragrancname"  : "FAT ELECTRICIAN",
+            "gender"        : "Male",
+            "family1"       : "Wood",
+            "family2"       : "",
+            "family3"       : "",
+            "note"          : ""
+        },
+        {
+            "brandname"     : "HISTOIRES DE PARFUMS",
+            "fragrancname"  : "1725",
+            "gender"        : "Male",
+            "family1"       : "Leather",
+            "family2"       : "Citrus",
+            "family3"       : "",
+            "note"          : ""
+        },
+        {
+            "brandname"     : "ROBERT PIGUET",
+            "fragrancname"  : "NOTES",
+            "gender"        : "Male",
+            "family1"       : "Leather",
+            "family2"       : "Citrus",
+            "family3"       : "",
+            "note"          : ""
+        },
+        {
+            "brandname"     : "ILLUMINUM",
+            "fragrancname"  : "ILL_Tonka Oud_ Eau de Parfum",
+            "gender"        : "Unisex",
             "family1"       : "Floral",
-            "family2"       : "Oriental",
-            "family3"       : "Fruit",
-            "note"          : "Citrus Fruity"
+            "family2"       : "",
+            "family3"       : "",
+            "note"          : ""
         }
     ]
 }
